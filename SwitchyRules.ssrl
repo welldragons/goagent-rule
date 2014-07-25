@@ -1,25 +1,6 @@
 #BEGIN
 
 [wildcard]
-*://*.google.com/*
-*://*.android.com/*
-*://*.nextmedia.com/*
-*://*.github.com/*
-*://*.pixnet.net/*
-*://*.doubleclick.net/*
-*://*.googleusercontent.com/*
-*://*.ytimg.com/*
-*://*.googlevideo.com/*
-*://*.seleniumhq.org/*
-*://*.apple.com/*
-*://*.googlesource.com/*
-*://*.google.com.hk/*
-*://*.appspot.com/*
-*://*.youtube.com/*
-*://*.facebook.com/*
-*://*.googleapis.com/*
-*://btdigg.org/*
-*://*.gstatic.com/*
 *://github.com/*
 
 [regexp]
