@@ -2,6 +2,7 @@
 
 [wildcard]
 *://github.com/*
+*://*.google.com.hk/*
 
 [regexp]
 
